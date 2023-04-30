@@ -1,7 +1,6 @@
 frozen_string_literal: true
-```ruby
+ruby
 gem "plainwhite"
-```
 
 source "https://rubygems.org"
 gemspec
