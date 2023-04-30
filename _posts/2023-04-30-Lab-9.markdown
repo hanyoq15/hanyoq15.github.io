@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lab 9"
+date:   2023-04-30 23:10:04 +0900
+categories: jekyll update
+---
+`3. github page를 이용하여 정적 웹사이트를 만들어 보세요. (github 페이지  or jekyll 등으로 검색 후 참고하여 만들어보기)`
+
+=> 참고 웹사이트 URL 제출
+
+    참고링크   
+    
+        https://supermemi.tistory.com/entry %EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-Git-hub-blog-GitHubio   
+        https://zeddios.tistory.com/1222   
+        https://zeddios.tistory.com/1223   
+        https://ogaeng.com/jekyll-blog-install/  
